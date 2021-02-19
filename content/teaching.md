@@ -12,11 +12,11 @@ This course is a one semester course meant to introduce graduate students from s
 
 ### Office hour
 
-+ Jun Wang: Thur (2:30-3:30pm)
-+ Hao Sun: TBD 
+Thur (2:30-4:30pm), Jin Chun Yuan West Building, Room 136, or by appointment. 
 
 ### Announcements, etc.
- Announcements, notes, and assignments etc. will be posted on this webpage mainly.
+ Announcements, notes, and assignments etc. will be posted both on this website and on the [Tsinghua University Web Learning site](https://learn.tsinghua.edu.cn).
+ This course is taught online and offline simultaneously. Online students please head to the [Web Learning site](https://learn.tsinghua.edu.cn) to get the meeting ID. 
 
 ---
 
@@ -51,15 +51,15 @@ There will be weekly homework assignments involving a mix of theory and (small-s
 Since the emphasis is on developing the ability of problem solving and effective communication between disciplines, none of the above is meant to be 
 heavily mathematical. However scientific rigor to some extent is to be expected (as it should be).
 
-### Syllabus (tentative)
+### Weekly Schedule (tentative)
 
 Date | Topics | Notes & HWs
 -----|--------|------------
-02/23| Intro to NA/CSE | NT0, HW0 (due: )
-02/25| Floating point arithmetic | NT1, HW1
-03/02| Condition number and stability | NT2, HW2
-03/04| Numerical linear algebra (direct methods) | NT3, HW3
-03/09| Cholesky decomp, Givens rotation | NT4, HW4
+02/23| Intro to NA/CSE | NT1A, HW1 (due: )
+02/25| Floating point arithmetic | NT1B
+03/02| Condition number and stability | NT2A, HW2
+03/04| Numerical linear algebra (direct methods) | NT2B
+03/09| Cholesky decomp, Givens rotation | NT3A, HW3
 
 ... to be continued ...
 
